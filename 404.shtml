@@ -58,6 +58,7 @@ p {
 a {
   color: #3282e6;
   text-decoration: none;
+    margin-bottom: 10px;
 }
 </style>
 </head>
